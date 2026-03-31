@@ -184,9 +184,10 @@ temp/
 *.temp
 
 # Model artifacts (keep these out of version control)
-fraud_detection_model.pkl
-feature_scaler.pkl
-selected_features.pkl
+# Note: Required model files are tracked for deployment
+# fraud_detection_model.pkl
+# feature_scaler.pkl
+# selected_features.pkl
 
 # Dataset (too large for git)
 creditcard.csv
