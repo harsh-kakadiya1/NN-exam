@@ -21,4 +21,4 @@ seaborn==0.12.2
 plotly==5.15.0
 
 # Utilities
-warnings
+# warnings is a built-in Python module
