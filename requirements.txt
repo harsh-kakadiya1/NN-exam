@@ -1,0 +1,24 @@
+# Core ML Libraries
+pandas==1.5.3
+numpy==1.24.3
+scikit-learn==1.2.2
+joblib==1.2.0
+
+# Imbalanced Data Handling
+imbalanced-learn==0.10.1
+
+# Deep Learning (for ANN)
+tensorflow==2.12.0
+keras==2.12.0
+
+# Web Interface
+streamlit==1.28.1
+gradio==3.41.2
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.15.0
+
+# Utilities
+warnings
